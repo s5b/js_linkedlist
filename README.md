@@ -1,4 +1,6 @@
 js_linkedlist
 =============
 
-A JAvaScript implementation of (circular) linked lists
+A JavaScript implementation of (circular) linked lists
+
+Coming real soon.
